@@ -44,30 +44,28 @@ Run npm run build and address reported type errors before deploying.
 
 ## Project Structure
 
-text
 .
-├── public/ # Static assets
+├── public/                    # Static assets
 ├── src/
-│ ├── assets/ # Local media/assets
-│ ├── components/
-│ │ ├── Character/ # 3D scene + character logic/utilities
-│ │ ├── styles/ # Section/component CSS files
-│ │ ├── About.tsx
-│ │ ├── Career.tsx
-│ │ ├── Contact.tsx
-│ │ ├── Landing.tsx
-│ │ ├── MainContainer.tsx # Main page composition
-│ │ ├── Navbar.tsx
-│ │ ├── TechStack.tsx
-│ │ ├── WhatIDo.tsx
-│ │ └── Work.tsx
-│ ├── context/ # Global providers (loading state, etc.)
-│ ├── data/ # Static data/content definitions
-│ ├── App.tsx
-│ └── main.tsx
+│   ├── assets/                # Local media/assets
+│   ├── components/
+│   │   ├── Character/         # 3D scene + character logic/utilities
+│   │   ├── styles/            # Section/component CSS files
+│   │   ├── About.tsx
+│   │   ├── Career.tsx
+│   │   ├── Contact.tsx
+│   │   ├── Landing.tsx
+│   │   ├── MainContainer.tsx  # Main page composition
+│   │   ├── Navbar.tsx
+│   │   ├── TechStack.tsx
+│   │   ├── WhatIDo.tsx
+│   │   └── Work.tsx
+│   ├── context/               # Global providers (loading state, etc.)
+│   ├── data/                  # Static data/content definitions
+│   ├── App.tsx
+│   └── main.tsx
 ├── package.json
 └── vite.config.ts
-
 ---
 
 ## ⚙️ Setup
@@ -88,7 +86,7 @@ npm run dev
 ## 📬 Contact
 
 Adarsh Nadda  
-Email: adarshnadda2002@gmail.com  
+Email: adarshnadda2002@gmail.com || adarshauspicious@gmail.com
 LinkedIn: https://linkedin.com/in/adarsh-nadda-a65328276
 
 ---
@@ -96,3 +94,6 @@ LinkedIn: https://linkedin.com/in/adarsh-nadda-a65328276
 ## 📌 Note
 
 Built as part of my learning journey in modern web development, 3D web experiences, and animation-driven UI design.
+
+
+
