@@ -3,7 +3,7 @@
 A modern interactive 3D portfolio built to showcase my projects, skills, and experience using immersive UI, smooth animations, and real-time 3D rendering.
 This repository contains the source code for a personal 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
 
-🚀 Live Demo: https://adarsh-portfolio-jj1ckip1s-adarshauspicious-arts-projects.vercel.app/
+🚀 Live Demo: https://adarsh-portfolio-tan.vercel.app/
 
 ---
 
