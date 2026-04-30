@@ -18,8 +18,8 @@ const Navbar = () => {
       effects: true,
       autoResize: true,
       ignoreMobileResize: true,
-    });
-
+    });   
+ 
     smoother.scrollTop(0);
     smoother.paused(true);
 
