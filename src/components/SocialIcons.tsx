@@ -62,7 +62,8 @@ const SocialIcons = () => {
           <a
             href="https://github.com/adarshauspicious-art"
             target="_blank"
-            rel="noreferrer"
+            rel="noreferrer noopener"
+            title="GitHub"
           >
             <FaGithub />
           </a>
@@ -71,7 +72,8 @@ const SocialIcons = () => {
           <a
             href="https://www.linkedin.com/in/adarsh-nadda-a65328276/"
             target="_blank"
-            rel="noreferrer"
+            rel="noreferrer noopener"
+            title="LinkedIn"
           >
             <FaLinkedinIn />
           </a>
@@ -81,7 +83,8 @@ const SocialIcons = () => {
           <a
             href="https://www.instagram.com/adarshnadda45/"
             target="_blank"
-            rel="noreferrer"
+            rel="noreferrer noopener"
+            title="Instagram"
           >
             <FaInstagram />
           </a>
@@ -89,9 +92,10 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/Adarsh Nadda Resume.pdf"
+        href="/Adarsh CV.pdf"
         target="_blank"
-        rel="noreferrer"
+        rel="noreferrer noopener"
+        title="Resume"
       >
         <HoverLinks text="RESUME" />
         <span>
