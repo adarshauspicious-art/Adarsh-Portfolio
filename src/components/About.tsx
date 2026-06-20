@@ -5,9 +5,28 @@ const About = () => {
     <div className="about-section" id="about">
       <div className="about-me">
         <h3 className="title">About Me</h3>
+
         <p className="para">
-          Full-Stack Developer experienced in building scalable web applications using React.js, Next.js, TypeScript, Tailwind, Node.js, Express.js, and MongoDB. 
-          <br /> <br /> Skilled in designing RESTful APIs, testing and debugging with Postman, and translating Figma designs into responsive, pixel-perfect interfaces. <br /> <br /> Proficient in Git workflows and deploying production-ready applications. <br /> <br />  Currently expanding into cloud and DevOps (AWS, Docker, Kubernetes, CI/CD), with a strong focus on clean code, performance, and continuous improvement.
+          I am a Full Stack Developer with professional experience building
+          scalable, production-ready web applications using React.js, Next.js,
+          TypeScript, Node.js, Express.js, and MongoDB.
+          <br />
+          <br />
+          My expertise includes developing responsive user interfaces,
+          designing secure RESTful APIs, implementing authentication and
+          authorization systems, integrating third-party services, and building
+          real-time features using modern web technologies.
+          <br />
+          <br />
+          I have hands-on experience working with technologies such as Redis,
+          Socket.io, Stripe, OpenAI, Tailwind CSS, Git, and Postman, while
+          following industry best practices for performance, security, and
+          maintainability.
+          <br />
+          <br />
+          Passionate about continuous learning and problem-solving, I am
+          currently expanding my knowledge in Cloud and DevOps technologies,
+          including AWS, Docker, CI/CD, and modern deployment workflows.
         </p>
       </div>
     </div>

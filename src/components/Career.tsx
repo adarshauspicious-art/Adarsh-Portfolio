@@ -8,46 +8,53 @@ const Career = () => {
           My career <span>&</span>
           <br /> experience
         </h2>
+
         <div className="career-info">
           <div className="career-timeline">
             <div className="career-dot"></div>
           </div>
 
+          {/* Internship */}
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Internship</h4>
+                <h4>MERN Stack Intern</h4>
                 <h5>Solitaire Infosys Pvt. Ltd.</h5>
               </div>
-              <div>6+ Months · MOHALI</div>
+              <div>Jan 2025 – Jun 2025 · Mohali</div>
             </div>
+
             <p>
-              Gained hands-on experience in the MERN stack (MongoDB, Express.js,
-              React.js, Node.js) by developing full-stack web applications.
-              Built and implemented application logic, RESTful APIs, and dynamic
-              user interfaces. Worked on database design, integration, and
-              performance optimization.
+              Developed full-stack web applications using React.js, Node.js,
+              Express.js, and MongoDB. Built RESTful APIs following MVC
+              architecture, implemented JWT-based authentication and role-based
+              access control, designed MongoDB schemas, and performed CRUD
+              operations across multiple business modules. Collaborated with
+              senior developers to deliver responsive and maintainable
+              applications.
             </p>
           </div>
+
+          {/* Current Role */}
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Jr. MERN STACK Developer</h4>
-                <h5> Auspicious Soft Pvt. Ltd. </h5>
+                <h4>Full Stack (MERN) Developer</h4>
+                <h5>Auspicious Soft Pvt. Ltd.</h5>
               </div>
-              <h3>NOW</h3>
+              <div>Sep 2025 – Present</div>
             </div>
+
             <p>
-              Delivered two production-level web applications using the MERN
-              stack.
-              <br />
-              Built a Court Booking System that enables users to book paddle
-              courts in Chandigarh with real-time availability tracking.
-              Developed the ROFL Ticketing Platform for ticket purchases and
-              prize-based participation, featuring secure authentication,
-              well-structured database design, and robust user flows. Focused on
-              improving performance, reliability, and code quality through
-              optimized backend logic and systematic debugging.
+              Building and maintaining production-ready applications using
+              React.js, Next.js, Node.js, Express.js, MongoDB, and TypeScript.
+              Developed secure authentication systems with JWT and OAuth,
+              integrated Stripe payment workflows, implemented real-time
+              features using Socket.io and WebSockets, and leveraged Redis for
+              caching and session management. Contributed to AI-powered
+              solutions through OpenAI and Claude while
+              delivering scalable, high-performance user experiences in an
+              Agile development environment.
             </p>
           </div>
         </div>

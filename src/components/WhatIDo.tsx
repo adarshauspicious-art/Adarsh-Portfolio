@@ -87,20 +87,25 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FULL-STACK WEB DEVELOPMENT</h3>
-              <h4>Building scalable and real-time web applications</h4>
+              <h3>FULL STACK APPLICATION DEVELOPMENT</h3>
+              <h4>Building scalable, production-ready web applications</h4>
+
               <p>
-                I develop modern full-stack applications with real-time
-                features, authentication, and seamless user experiences from
-                frontend to backend.
+                I develop end-to-end web applications using modern frontend and
+                backend technologies, focusing on performance, scalability,
+                security, and user experience. From responsive interfaces to
+                robust APIs, I deliver complete software solutions for
+                real-world business requirements.
               </p>
-              {/* <h5>Tech Stack</h5> */}
+
               <div className="what-content-flex">
                 <div className="what-tags">React.js</div>
                 <div className="what-tags">Next.js</div>
+                <div className="what-tags">TypeScript</div>
                 <div className="what-tags">Node.js</div>
                 <div className="what-tags">MongoDB</div>
               </div>
+
               <div className="what-arrow"></div>
             </div>
           </div>
@@ -123,19 +128,27 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND & AUTHENTICATION SYSTEMS</h3>
-              <h4>Secure, scalable APIs with user management</h4>
+              <h3>BACKEND, DEPLOYMENT & AI SOLUTIONS</h3>
+              <h4>Secure APIs, cloud deployments, and intelligent workflows</h4>
+
               <p>
-                I build robust backend systems with secure authentication, CRUD
-                operations, and role-based dashboards.
+                I build secure backend systems with authentication,
+                authorization, payment processing, real-time communication, and
+                AI integrations. I also deploy and maintain production
+                applications using modern cloud platforms, ensuring scalability,
+                reliability, and seamless user experiences.
               </p>
-              {/* <h5>Tech Stack</h5> */}
+
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Express</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">Auth</div>
+                <div className="what-tags">Express.js</div>
+                <div className="what-tags">Redis</div>
+                <div className="what-tags">Socket.io</div>
+                <div className="what-tags">Stripe</div>
+                <div className="what-tags">Vercel</div>
+                <div className="what-tags">Render</div>
+                <div className="what-tags">MongoDB Atlas</div>
               </div>
+
               <div className="what-arrow"></div>
             </div>
           </div>
