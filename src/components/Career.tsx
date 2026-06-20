@@ -42,7 +42,7 @@ const Career = () => {
                 <h4>Full Stack (MERN) Developer</h4>
                 <h5>Auspicious Soft Pvt. Ltd.</h5>
               </div>
-              <div>Sep 2025 – Present</div>
+              <div>Sep 2025 – Present</div> 
             </div>
 
             <p>
