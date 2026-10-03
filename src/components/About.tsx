@@ -6,28 +6,28 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
 
-        <p className="para">
-          I am a Full Stack Developer with professional experience building
-          scalable, production-ready web applications using React.js, Next.js,
-          TypeScript, Node.js, Express.js, and MongoDB.
+       <p className="para">
+          I am a Full Stack Developer specialising in the design and development of
+          scalable, secure, and high-performance web applications using React.js,
+          Next.js, TypeScript, Node.js, Express.js, and MongoDB.
           <br />
           <br />
-          My expertise includes developing responsive user interfaces,
-          designing secure RESTful APIs, implementing authentication and
-          authorization systems, integrating third-party services, and building
-          real-time features using modern web technologies.
+          I focus on building robust solutions with clean architecture, maintainable
+          code, responsive interfaces, secure APIs, and seamless integrations,
+          while adhering to modern development practices.
           <br />
           <br />
-          I have hands-on experience working with technologies such as Redis,
-          Socket.io, Stripe, OpenAI, Tailwind CSS, Git, and Postman, while
-          following industry best practices for performance, security, and
-          maintainability.
+          My experience spans real-time applications, authentication systems,
+          third-party integrations, Redis, Socket.io, Stripe, OpenAI, and
+          Tailwind CSS, with a strong emphasis on performance, security, and
+          reliability.
           <br />
           <br />
-          Passionate about continuous learning and problem-solving, I am
-          currently expanding my knowledge in Cloud and DevOps technologies,
-          including AWS, Docker, CI/CD, and modern deployment workflows.
+          Driven by continuous learning, I am further developing my expertise in
+          Cloud and DevOps, with a focus on AWS, Docker, CI/CD, and modern
+          deployment practices.
         </p>
+
       </div>
     </div>
   );
