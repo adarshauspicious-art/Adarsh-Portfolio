@@ -44,7 +44,7 @@ const Career = () => {
               </div>
               <div>Sep 2025 – Present</div> 
             </div>
-
+     
             <p>
               Building and maintaining production-ready applications using
               React.js, Next.js, Node.js, Express.js, MongoDB, and TypeScript.
@@ -58,6 +58,7 @@ const Career = () => {
             </p>
           </div>
         </div>
+        
       </div>
     </div>
   );
