@@ -92,7 +92,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/Adarsh CV.pdf"
+        href="/ADARSH NADDA  CV.pdf"
         target="_blank"
         rel="noreferrer noopener"
         title="Resume"
